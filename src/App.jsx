@@ -2,6 +2,7 @@ import Home from "./pages/Home";
 import CreateResume from "./pages/CreateResume";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap/dist/js/bootstrap.js";
 
 function App() {
   return (
